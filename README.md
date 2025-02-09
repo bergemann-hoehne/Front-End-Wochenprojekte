@@ -46,3 +46,20 @@ Es soll eine einfache, statische Online-Shop-Seite erstellt werden, die die grun
 - Hinzufügen eines einfachen Kontaktformulars auf einer Kontaktseite hinzu.
 - Verwenden von CSS-Animationen, um bestimmte Elemente hervorzuheben.
 - Umsetung als responsiv Web-Page, sodass sie auf verschiedenen Geräten gut aussieht.
+
+
+## 6 JavaScript
+### Woche 1
+
+### Projekt: Einfacher Taschenrechner
+
+#### 1. Projektbeschreibung
+Erstelle einen Taschenrechner, der grundlegende mathematische Operationen wie Addition, Subtraktion, Multiplikation und Division ausführen kann. Der Benutzer sollte zwei Zahlen eingeben und die gewünschte Operation auswählen können.
+
+#### 2. Anforderungen
+- **HTML**: Erstelle eine einfache Benutzeroberfläche mit Eingabefeldern für die Zahlen und Schaltflächen für die Operationen.
+- **JavaScript**: Implementiere die Logik für die mathematischen Operationen.
+
+#### Bonusaufgabe
+- **CSS**: Gestalte die Benutzeroberfläche ansprechend.
+- Erstelle komplexe mathematische operationen wie Potenz und Wurzel
