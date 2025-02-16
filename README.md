@@ -63,3 +63,54 @@ Erstelle einen Taschenrechner, der grundlegende mathematische Operationen wie Ad
 #### Bonusaufgabe
 - **CSS**: Gestalte die Benutzeroberfläche ansprechend.
 - Erstelle komplexe mathematische operationen wie Potenz und Wurzel
+
+### Woche 2
+
+### Projekt: Warenkorb für einen Online-Shop
+
+#### 1. Projektbeschreibung
+Erstelle einen Warenkorb, in dem Benutzer Produkte hinzufügen, entfernen und die Gesamtsumme berechnen können. Die Benutzeroberfläche wurde bereits mit HTML und CSS erstellt, während die Logik mit JavaScript implementiert wird.
+
+#### 2. Anforderungen
+- **JavaScript**: Implementiere die Logik für das Hinzufügen und Entfernen von Produkten sowie die Berechnung der Gesamtsumme.
+
+#### 3. Erklärung der Konzepte
+- **Ereignisbehandlung**: Die `onclick`-Ereignisse für die Schaltflächen zum Hinzufügen und Entfernen von Produkten.
+- **Schleifen**: Die `forEach`-Schleife, um durch den Warenkorb zu iterieren und die Elemente anzuzeigen.
+- **Arrays und Array-Methoden**: Das `cart`-Array speichert die Produkte im Warenkorb. Methoden wie `push` und `splice` werden verwendet, um Elemente hinzuzufügen und zu entfernen.
+
+### Woche 3
+
+### Projekt: Produktverwaltungssystem für den Online-Shop
+
+#### 1. Projektbeschreibung
+Erstelle ein System zur Verwaltung von Produkten in einem Online-Shop. Das System soll als zusätzliche Admin Seite in den bestehenden Onlineshop hinzugefügt werden und soll die Möglichkeit bieten, Produkte hinzuzufügen, zu entfernen und anzuzeigen. Jedes Produkt wird als Objekt dargestellt, und es werden Methoden zur Verwaltung der Produkte verwendet.
+
+#### 2. Anforderungen
+- **HTML**: Erstelle eine einfache Benutzeroberfläche zur Interaktion mit dem System.
+- **CSS**: Gestalte die Benutzeroberfläche ansprechend.
+- **JavaScript**: Implementiere die Logik für die Verwaltung der Produkte mit Objekten und Methoden.
+
+#### 3. Erklärung der Konzepte
+- **Objekt-Literale und -Konstruktoren**: Die Klassen `Product` und `Shop` werden verwendet, um Produkt- und Shop-Objekte zu erstellen.
+- **Objekt-Methoden und Funktionen**: Methoden wie `describe`, `addProduct`, `removeProduct` und `displayProducts` werden verwendet, um die Produkte zu verwalten.
+- **Ereignisbehandlung**: Die `onclick`-Ereignisse für die Schaltflächen zum Hinzufügen und Entfernen von Produkten.
+
+### Woche 4
+
+### Erweiterung des Projekts: Produktverwaltungssystem für einen Online-Shop
+
+#### 1. Boolesche Logik
+Füge eine Funktion hinzu, die überprüft, ob ein Produkt bereits im Shop vorhanden ist, bevor es hinzugefügt wird. Dies verhindert doppelte Einträge.
+
+#### 2. Arbeiten mit dem DOM
+Erweitere die Benutzeroberfläche, um zusätzliche Informationen anzuzeigen, wie z.B. die Anzahl der Produkte im Shop.
+Stelle das Shop Frontend um auf ein Dynamisches Layout basierend auf den Produkten im Shop. (vorher hinzugefügt.)
+
+#### 3. Testing mit JavaScript
+Implementiere einfache Tests, um sicherzustellen, dass die Funktionen korrekt arbeiten.
+
+#### 4. Erklärung der Konzepte
+- **Boolesche Logik**: Die Methode `isProductInShop` verwendet boolesche Logik, um zu überprüfen, ob ein Produkt bereits im Shop vorhanden ist.
+- **Arbeiten mit dem DOM**: Die Methode `displayProducts` aktualisiert die DOM-Elemente, um die Produktliste und die Anzahl der Produkte anzuzeigen.
+- **Testing mit JavaScript**: Die Funktionen `testAddProduct` und `testRemoveProduct` testen die Methoden des `Shop`-Objekts.
