@@ -114,3 +114,21 @@ Implementiere einfache Tests, um sicherzustellen, dass die Funktionen korrekt ar
 - **Boolesche Logik**: Die Methode `isProductInShop` verwendet boolesche Logik, um zu überprüfen, ob ein Produkt bereits im Shop vorhanden ist.
 - **Arbeiten mit dem DOM**: Die Methode `displayProducts` aktualisiert die DOM-Elemente, um die Produktliste und die Anzahl der Produkte anzuzeigen.
 - **Testing mit JavaScript**: Die Funktionen `testAddProduct` und `testRemoveProduct` testen die Methoden des `Shop`-Objekts.
+
+## 7 UML
+
+### Erstellen eines UML Aktivitätsdiagramm für den erstellen Online-Shop
+
+#### 1. Zu betrachten sind der Nutzer, die Webseite des Shops und der Shop Inhaber.
+
+#### 0. Zusatzaufgabe für fortgeschrittene (Einbeziehen des Logistikers für die Lieferung)
+
+### Erstellen eines UML Sequenzdiagramms für den erstellen Online-Shop
+
+#### 1. Zu betrachten sind der Nutzer, die Webseite des Shops und der Shop Inhaber.
+
+#### 0. Zusatzaufgabe für fortgeschrittene (Einbeziehen des Logistikers für die Lieferung)
+
+## 8 Mockups
+
+### Erstellen von Mocups mit dem gewählten Tool für ein Rebranding/Redesign des Onlineshops mit den Funktionalitäten und Optionen, die in dem Tool zur Verfügung stehen.
