@@ -132,3 +132,61 @@ Implementiere einfache Tests, um sicherzustellen, dass die Funktionen korrekt ar
 ## 8 Mockups
 
 ### Erstellen von Mocups mit dem gewählten Tool für ein Rebranding/Redesign des Onlineshops mit den Funktionalitäten und Optionen, die in dem Tool zur Verfügung stehen.
+
+## 8 JS-Frameworks
+
+### React
+
+### Woche 1 Konzeption udn React
+
+**1. Mockup der Webseite:**
+- Beginne mit der Erstellung eines Mockups, das die Struktur und das Design deiner Social Media App zeigt. Tools wie Figma sind hierfür ideal. Das Mockup sollte die wichtigsten Seiten wie den Feed, das Posten-Interface und Benutzerprofile enthalten.
+
+**2. UML-Diagramm:**
+- Erstelle ein UML-Diagramm, um die Beziehungen zwischen den verschiedenen Komponenten deiner App zu visualisieren. Dies hilft dir, die Struktur und den Datenfluss besser zu verstehen.
+
+**3. Erste Umsetzung des Interfaces mit React:**
+- Starte mit der Implementierung des Interfaces in React. Erstelle die grundlegenden Komponenten wie Header, Footer und den Hauptbereich für den Feed.
+
+**4. Implementierung des Feeds:**
+- Entwickle den zentralen Feed, in dem Benutzer die neuesten Beiträge sehen können. Dies ist der Hauptbereich deiner App, in dem alle Aktivitäten angezeigt werden.
+
+**5. Implementierung des Postens:**
+- Füge die Funktion hinzu, mit der Benutzer Texte und Links posten können. Dies ist der erste Schritt, um Interaktionen in deiner App zu ermöglichen.
+
+**6. Speicherung in JSON-Dateien:**
+- Implementiere die Speicherung der Beiträge in JSON-Dateien. Dies ist eine einfache Methode, um Daten lokal zu speichern und zu verwalten.
+
+**Zusatzaufgabe:**
+- Erweitere die Post-Funktion, sodass Benutzer auch Bilder, Videos und Audio-Dateien posten können. Dies macht die App vielseitiger und attraktiver.
+
+
+
+### Woche 2: Vertiefung und Erweiterung mit Next.js und Tailwind.js
+
+**1. Überführung der Inhalte von React in Next.js:**
+- Migriere dein Projekt von React zu Next.js. Next.js bietet zusätzliche Funktionen wie serverseitiges Rendering und eine bessere Performance.
+
+**2. Implementierung von verschiedenen Routen:**
+- Erstelle verschiedene Routen für deine Anwendung, wie Landingpage, Login und Registrierung. Dies hilft, die Navigation in deiner App zu strukturieren.
+
+**3. Erstes Styling mit Tailwind CSS:**
+- Beginne mit dem Styling deiner App. Verwende Tailwind CSS, um das Design des Feeds und des Post-Interfaces zu verbessern. Tailwind bietet eine einfache und flexible Möglichkeit, deine App zu gestalten.
+
+**4. Erstellung des Benutzerprofils:**
+- Implementiere die Benutzerprofile, in denen Benutzer ihre Profile erstellen und personalisieren können. Dies umfasst Profilbilder, Biografien und persönliche Informationen.
+
+
+### Woche 3: Erweiterte Funktionen und Interaktionen
+
+**1. Gruppen und Communities:**
+- Füge die Möglichkeit hinzu, Gruppen oder Communities zu erstellen und beizutreten. Dies fördert die Interaktion und den Austausch zwischen Benutzern mit gemeinsamen Interessen.
+
+**2. Medien zu einem Post hinzufügen:**
+- Erweitere die Post-Funktion, sodass Benutzer Medien wie Bilder, Videos und Audio-Dateien zu ihren Beiträgen hinzufügen können.
+
+**3. Implementierung von Kommentaren und Likes:**
+- Füge die Funktionen für Kommentare und Likes hinzu. Dies ermöglicht den Benutzern, auf Beiträge zu reagieren und miteinander zu interagieren.
+
+**4. Vertiefung der Feed-Programmierung:**
+- Implementiere Filteroptionen für den Feed. Benutzer sollten die Möglichkeit haben, Beiträge nach verschiedenen Kategorien zu filtern, wie globale Beiträge, Beiträge von Gruppen, Beiträge von Freunden und eigene Beiträge.
