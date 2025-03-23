@@ -133,7 +133,7 @@ Implementiere einfache Tests, um sicherzustellen, dass die Funktionen korrekt ar
 
 ### Erstellen von Mocups mit dem gewählten Tool für ein Rebranding/Redesign des Onlineshops mit den Funktionalitäten und Optionen, die in dem Tool zur Verfügung stehen.
 
-## 8 JS-Frameworks
+## 9 JS-Frameworks
 
 ### React
 
